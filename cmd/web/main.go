@@ -11,7 +11,7 @@ import (
 )
 
 // var portNumber = ":8080"
-const portNumber = ":80"
+const portNumber = ":8080"
 
 // Home is the home page handler
 
